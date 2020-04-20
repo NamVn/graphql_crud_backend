@@ -1,0 +1,7 @@
+type Book {
+    id: ID!
+    title: String!
+    pageCount: Int
+    author: Author,
+    bookStores: [BookStores] @bookViewReason
+}
