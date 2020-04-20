@@ -1,6 +1,6 @@
 Run the Spring Boot application and the API is available at http://localhost:8080/graphql
 
-Comprehensive tutorial is available at https://rharshad.com/graphql-java-server/
+
 
 ### Curl
 
